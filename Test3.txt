@@ -1,2 +1,6 @@
 developer 1
+
 chnages in the file from local
+
+chnages in the file from remote
+
