@@ -6,4 +6,8 @@ chnages in the file from remote
 
 
 test for branchig and merging
+
 changes made from child2
+
+changes made from child 1
+
