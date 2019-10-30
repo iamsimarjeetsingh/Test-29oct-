@@ -11,3 +11,5 @@ changes made from child2
 
 changes made from child 1
 
+CHANGES MADE FROM THE CHILD 1
+
