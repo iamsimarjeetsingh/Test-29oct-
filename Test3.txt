@@ -10,4 +10,11 @@ test for branchig and merging
 changes made from child2
 
 changes made from child 1
+
 CHNAGES MADE FROM THE CHILD TWO
+
+CHANGES MADE FROM THE MASTER
+
+CHANGES MADE FROM THE CHILD 1
+
+
